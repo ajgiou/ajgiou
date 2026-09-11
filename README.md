@@ -11,6 +11,3 @@ I'm a BSIT Student that likes to create niche projects, and doesn't talk much.
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=ajgiou&icon=0&color=0)](https://visitcount.itsvg.in)
